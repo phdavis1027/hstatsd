@@ -20,5 +20,5 @@ Library
   build-depends:        base >= 3 && < 5,
                         bytestring,
                         mtl,
-                        network,
+                        network >= 3 && < 4,
                         text
